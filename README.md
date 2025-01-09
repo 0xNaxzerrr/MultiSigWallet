@@ -22,8 +22,8 @@
 
 1. **Cloner le repo**
 ```bash
-git clone https://github.com/votre-username/multisig-wallet
-cd multisig-wallet
+git clone https://github.com/0xNaxzerrr/MultiSigWallet
+cd MultiSigWallet
 ```
 
 2. **Installer les dépendances**
